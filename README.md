@@ -75,7 +75,7 @@ analyse-marche-bitcoin-correlations/
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/AymaneAshrk/crypto_msc_dab.git
+git clone https://github.com/AymaneAcharki/crypto_msc_dab.git
 cd crypto_msc_dab
 ```
 
