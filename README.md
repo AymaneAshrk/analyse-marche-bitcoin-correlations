@@ -142,6 +142,11 @@ Le fichier `btc_cap_price.csv` doit contenir les colonnes : date, price, market_
 | **4️⃣ Calculations** | Corrélations, rolling metrics, préparation régression | Matrices, séries |
 | **5️⃣ Visualizations** | Création des 5 graphiques interactifs | 5 fichiers HTML |
 
+## Contexte académique :
+Projet réalisé en groupe dans le cadre du cours **Python Bootcamp**, 
+au premier semestre du **MSc 2 Data Analytics for Business à KEDGE Business School** (2025–2026). 
+**Note du projet de groupe : 19,5/20.**
+
 ---
 
 **Auteur** : Aymane Acharki  
